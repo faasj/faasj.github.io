@@ -8,6 +8,9 @@ layout: default
 Serverless is not about the physical absence of servers. It is a new approach to building systems in the cloud.
 FaaSJ is a 100% pure Java serverless framework.
 
+## Note
+####You will soon be able to launch 5 of your functions for free at console.faasj.com. Stay tuned!
+
 ## Main features
 
 *   Easy to deploy
