@@ -14,6 +14,7 @@ FaaSJ is a 100% pure Java serverless framework.
 ## Main features
 
 *   Easy to deploy
+*   Scale to zero out of box
 *   Stateless
 *   Scalable
 *   Event-driven
