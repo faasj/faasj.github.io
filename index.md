@@ -50,3 +50,7 @@ kubectl port-forward svc/console -n faasj 8080:8080
 ```
 Now you can deploy new functions!
 
+---
+### Support:
+
+![](https://habrastorage.org/webt/qa/um/kg/qaumkgqphd_p-festmuz45ffsbq.png)
